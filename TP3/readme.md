@@ -1,3 +1,5 @@
+# Histograma de una imagen
+
 ## 1. Gráfico de histogramas
 Se representa la distribución de las luminancias de los píxeles de una imagen en una gráfica para posterior interpretación.
 
