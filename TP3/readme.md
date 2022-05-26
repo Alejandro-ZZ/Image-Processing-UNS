@@ -14,8 +14,8 @@ Aplicación de la corrección gamma $(\gamma)$ a una imagen. Esto significa que,
 equivalentes a los valores de luminancia de la imagen de entrada $(Y_{in})$ potencia de un factor denominado gamma $(Y_{out} = Y_{in}^\gamma)$. En función 
 de los valores asignado a $\gamma$ la imagen completa se aclara u oscurece. Dos de los valores más conocidos son:
 
-1. **Filtro de raíz cuadrada (\gamma = 1/2):** realza los pixeles oscuros y modifica levemente los pixeles con alta luminosidad.
-2. **Filtro cuadrático (\gamma = 2):** presenta un comportamiento inverso al filtro de raíz cuadrada.
+1. **Filtro de raíz cuadrada $(\gamma = 1/2)$:** realza los pixeles oscuros y modifica levemente los pixeles con alta luminosidad.
+2. **Filtro cuadrático $(\gamma = 2)$:** presenta un comportamiento inverso al filtro de raíz cuadrada.
 
 ## 4. Corrección con una función definida a tramos
 Este tipo de corrección permite oscurecer los pixeles oscuros y viceversa con los pixeles de alta luminosidad. De esta forma, no se oscurece ni aclara toda
