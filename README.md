@@ -7,3 +7,5 @@ Desarrollo de trabajos prácticos (TP) relacionados con la manipulación de imá
 ### 2. TP2: [Arítmetica de píxels: cuasi-suma y cuasi-resta](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP2)
 
 ### 3. TP3: [Gráfica y manipulación de histogramas](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP3)
+
+### 4. TP3: [Transformada de Fourier directa e inversa](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP4)
