@@ -9,3 +9,5 @@ Desarrollo de trabajos prácticos (TP) relacionados con la manipulación de imá
 ### 3. TP3: [Gráfica y manipulación de histogramas](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP3)
 
 ### 4. TP4: [Transformada de Fourier directa e inversa](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP4)
+
+### 5. TP5: [Procesamiento Morfológico](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP5)
