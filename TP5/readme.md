@@ -1,4 +1,4 @@
-# Procesamiento Morfológico
+# Filtros convolucionales
 
 Generación e implementación de kernels con diferentes tamaños ***'M'*** (*M* debe ser impar) para diferentes tipos de filtros.
 
