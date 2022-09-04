@@ -10,4 +10,6 @@ Desarrollo de trabajos prácticos (TP) relacionados con la manipulación de imá
 
 ### 4. TP4: [Transformada de Fourier directa e inversa](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP4)
 
-### 5. TP5: [Procesamiento Morfológico](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP5)
+### 5. TP5: [Filtros convolucionales](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP5)
+
+### 6. TP6: [Procesamiento Morfológico](https://github.com/Alejandro-ZZ/Image-Processing-UNS/tree/master/TP6)
