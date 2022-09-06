@@ -35,3 +35,16 @@
 **3.2. `Upsampling`** Se calcula la FFT de la imagen (con la frecuencia cero centrada), se añaden ceros al rededor de las frecuencias más altas (tanto positivas como negativas) hasta obtener el tamaño deseado y finalmente se calcula la FFT inversa.
 
 ![resampling_FFT2](https://user-images.githubusercontent.com/71833624/188718738-315774b8-ced9-4f0a-a6a6-08e139a0be77.png)
+
+## 4. Quantization
+
+**4.1. `Uniform`**
+
+![quantize](https://user-images.githubusercontent.com/71833624/188719900-d0373403-d0ba-4409-9359-10b92ead3371.png)
+
+**4.2. `Dithering Scanline`**
+
+**4.3. `Dithering Floyd - Steinberg`**
+
+![quantize](https://user-images.githubusercontent.com/71833624/188720811-72329440-a8f0-4909-a8eb-f2355dcfa1c6.png)
+
